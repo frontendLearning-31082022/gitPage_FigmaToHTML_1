@@ -256,6 +256,7 @@ p.price_item {
 
 div.header__navbar_control * {
 	max-height: inherit;
+
 	z-index: 100000;
 }
 
@@ -614,7 +615,7 @@ body:before {
 .subscribe {
 	height: fit-content;
 	width: 100vw;
-	background: linear-gradient(rgba(244, 244, 244, 0.7) 100%, rgba(0, 0, 0, 0.5)0%), url(/img/subscribe_background.svg);
+	background: linear-gradient(rgba(244, 244, 244, 0.7) 100%, rgba(0, 0, 0, 0.5)0%), url(img/subscribe_background.svg);
 	background-size: cover;
 }
 
